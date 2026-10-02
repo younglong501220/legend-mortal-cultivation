@@ -1,0 +1,6 @@
+{
+  "name": "凡人修真傳 - 經典文字放置MUD",
+  "description": "致敬《想不想修真》經典文字放置修仙遊戲。凡人逆天改命、聚氣破境、肉身成聖、洞府聚靈、五行靈根、文字歷練、斬除心魔與飛升三十三天。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
